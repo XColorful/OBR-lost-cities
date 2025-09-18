@@ -1,0 +1,24 @@
+{
+  "palette": [
+    {
+      "char": "X",
+      "block": "minecraft:blue_terracotta",
+      "damaged": "minecraft:iron_bars"
+    },
+    {
+      "char": "$",
+      "block": "minecraft:cyan_terracotta",
+      "damaged": "minecraft:iron_bars"
+    },
+    {
+      "char": "#",
+      "block": "minecraft:blue_terracotta",
+      "damaged": "minecraft:iron_bars"
+    },
+    {
+      "char": "}",
+      "block": "minecraft:blue_terracotta",
+      "damaged": "minecraft:iron_bars"
+    }
+  ]
+}
