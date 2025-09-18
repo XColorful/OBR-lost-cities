@@ -138,19 +138,10 @@
     },
     {
       "char": "F",
-      "blocks": [
-        {
-          "random": 50,
-          "block": "minecraft:crafting_table"
-        },
-        {
-          "random": 50,
-          "block": "tacz:workbench_a[facing=north]",
-          "tag": {
-            "BlockId": "cbrg:obr_workshop"
-          }
-        }
-      ]
+      "block": "tacz:workbench_a[facing=north]",
+      "tag": {
+        "BlockId": "cbrg:obr_workshop"
+      }
     },
     {
       "char": "%",
