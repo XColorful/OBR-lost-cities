@@ -68,7 +68,16 @@
     },
     {
       "char": "w",
-      "block": "minecraft:cobblestone_wall"
+      "blocks": [
+        {
+          "random": 100,
+          "block": "minecraft:cobblestone_wall"
+        },
+        {
+          "random": 40,
+          "block": "minecraft:air"
+        }
+      ]
     },
     {
       "char": ":",
