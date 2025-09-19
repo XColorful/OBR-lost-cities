@@ -140,7 +140,7 @@
       "char": "F",
       "block": "tacz:workbench_a[facing=north]",
       "tag": {
-        "BlockId": "cbrg:obr_workshop"
+        "BlockId": "cbrg:arcade_workshop"
       }
     },
     {
